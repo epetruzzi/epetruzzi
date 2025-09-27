@@ -27,8 +27,7 @@
 - Roles y seguridad con JWT.  
 
 
-### 🔹 Proyecto Final Henry 
-
+###  Proyecto Final Henry 
 ### 🔹 StudioConnect – Reservas de estudios musicales  
 - Administración de usuarios y estudios.  
 - Calendario dinámico de reservas.  

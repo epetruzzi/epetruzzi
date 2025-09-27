@@ -33,7 +33,7 @@
 - Administración de usuarios y estudios.  
 - Calendario dinámico de reservas.  
 - Pagos integrados con Stripe.  
-👉 [Repositorio](https://github.com/studioconnect2025/studioconnect_front) | [Demo]([#](https://studioconnect-front.vercel.app/))
+👉 [Repositorio](https://github.com/studioconnect2025/studioconnect_front) | [Demo](https://studioconnect-front.vercel.app/)
 
 ## 🖼️ Vistas de la app
 

@@ -19,9 +19,6 @@
 
 ---
 
-## Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=epetruzzi&theme=transparent&locale=es&short_numbers=true)](https://git.io/streak-stats)
-
 ## 📂 Proyectos Destacados  
 
 ### 🔹 ClinCare – Gestión médica  
